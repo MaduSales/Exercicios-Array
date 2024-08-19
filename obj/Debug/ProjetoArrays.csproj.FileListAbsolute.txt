@@ -1,0 +1,12 @@
+C:\Users\Aluno\source\repos\ProjetoArrays\bin\Debug\ProjetoArrays.exe.config
+C:\Users\Aluno\source\repos\ProjetoArrays\bin\Debug\ProjetoArrays.exe
+C:\Users\Aluno\source\repos\ProjetoArrays\bin\Debug\ProjetoArrays.pdb
+C:\Users\Aluno\source\repos\ProjetoArrays\obj\Debug\ProjetoArrays.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ProjetoArrays\obj\Debug\ProjetoArrays.Exemplo01.resources
+C:\Users\Aluno\source\repos\ProjetoArrays\obj\Debug\ProjetoArrays.Properties.Resources.resources
+C:\Users\Aluno\source\repos\ProjetoArrays\obj\Debug\ProjetoArrays.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\ProjetoArrays\obj\Debug\ProjetoArrays.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ProjetoArrays\obj\Debug\ProjetoArrays.exe
+C:\Users\Aluno\source\repos\ProjetoArrays\obj\Debug\ProjetoArrays.pdb
+C:\Users\Aluno\source\repos\ProjetoArrays\obj\Debug\ProjetoArrays.Exemplo02.resources
+C:\Users\Aluno\source\repos\ProjetoArrays\obj\Debug\ProjetoArrays.Exemplo03.resources
