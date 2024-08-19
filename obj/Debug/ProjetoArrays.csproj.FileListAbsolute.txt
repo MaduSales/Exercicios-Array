@@ -10,3 +10,4 @@ C:\Users\Aluno\source\repos\ProjetoArrays\obj\Debug\ProjetoArrays.exe
 C:\Users\Aluno\source\repos\ProjetoArrays\obj\Debug\ProjetoArrays.pdb
 C:\Users\Aluno\source\repos\ProjetoArrays\obj\Debug\ProjetoArrays.Exemplo02.resources
 C:\Users\Aluno\source\repos\ProjetoArrays\obj\Debug\ProjetoArrays.Exemplo03.resources
+C:\Users\Aluno\source\repos\ProjetoArrays\obj\Debug\ProjetoArrays.Exemplo4.resources

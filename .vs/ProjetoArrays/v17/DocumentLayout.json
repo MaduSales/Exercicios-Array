@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|c:\\users\\aluno\\source\\repos\\projetoarrays\\exemplo03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|solutionrelative:exemplo03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|c:\\users\\aluno\\source\\repos\\projetoarrays\\exemplo4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|solutionrelative:exemplo4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|c:\\users\\aluno\\source\\repos\\projetoarrays\\exemplo03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|c:\\users\\aluno\\source\\repos\\projetoarrays\\exemplo4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|solutionrelative:exemplo4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|c:\\users\\aluno\\source\\repos\\projetoarrays\\exemplo02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|solutionrelative:exemplo02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|c:\\users\\aluno\\source\\repos\\projetoarrays\\exemplo02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|solutionrelative:exemplo02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\exemplo03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|solutionrelative:exemplo03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|c:\\users\\aluno\\source\\repos\\projetoarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\exemplo01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|solutionrelative:exemplo01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\exemplo03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FC327B-5B56-45A0-9BF0-706C37A0D5C5}|ProjetoArrays.csproj|solutionrelative:exemplo03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\exemplo04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exemplo04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +50,80 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exemplo02.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\Exemplo02.cs",
+              "RelativeDocumentMoniker": "Exemplo02.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\Exemplo02.cs",
+              "RelativeToolTip": "Exemplo02.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:37:33.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exemplo4.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\Exemplo4.cs",
+              "RelativeDocumentMoniker": "Exemplo4.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\Exemplo4.cs",
+              "RelativeToolTip": "Exemplo4.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:35:53.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Exemplo4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\Exemplo4.cs",
+              "RelativeDocumentMoniker": "Exemplo4.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\Exemplo4.cs [Design]",
+              "RelativeToolTip": "Exemplo4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:30:47.83Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exemplo01.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\Exemplo01.cs",
+              "RelativeDocumentMoniker": "Exemplo01.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\Exemplo01.cs [Design]",
+              "RelativeToolTip": "Exemplo01.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:29:32.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exemplo02.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\Exemplo02.cs",
+              "RelativeDocumentMoniker": "Exemplo02.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\Exemplo02.cs [Design]",
+              "RelativeToolTip": "Exemplo02.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:29:26.725Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Exemplo04.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\Exemplo04.cs",
+              "RelativeDocumentMoniker": "Exemplo04.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\Exemplo04.cs [Design]",
+              "RelativeToolTip": "Exemplo04.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:29:01.559Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Exemplo03.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\Exemplo03.cs",
               "RelativeDocumentMoniker": "Exemplo03.cs",
@@ -38,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Exemplo03.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\Exemplo03.cs",
               "RelativeDocumentMoniker": "Exemplo03.cs",
@@ -57,7 +154,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Aluno\\source\\repos\\ProjetoArrays\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T13:29:23.159Z",
               "EditorCaption": ""
